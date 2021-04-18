@@ -1,9 +1,3 @@
-# API for the interview task for frontend developers
-
-This repository contains a server with a JSON file that plays the role of a database in the [interview task for frontend developers](https://development.kameleoon.net/oivanov/frontend-interview-task).
-
-You need to create your own local copy and work with it via the API.
-
 ### How to work
 
 Clone a repository
