@@ -1,7 +1,7 @@
 {
   "name": "test-dashboard-api",
   "version": "1.0.0",
-  "description": "API for the interview task for frontend developers",
+  "description": "API for the interview task",
   "main": "index.js",
   "scripts": {
     "start": "json-server -c ./config.json -w ./db.json"
