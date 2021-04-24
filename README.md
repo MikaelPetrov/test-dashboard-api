@@ -2,7 +2,7 @@
 
 Clone a repository
 ```bash
-git clone git@development.kameleoon.net:oivanov/frontend-interview-task-api.git
+git clone https://github.com/MikaelPetrov/test-dashboard-api.git
 ```
 
 Install dependencies
